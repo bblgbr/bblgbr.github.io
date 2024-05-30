@@ -1,9 +1,18 @@
 -
-  title: Mountains
-  directory: mountains
+  title: Gansu
+  directory: gansu
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: 1
+    original: gansu_dessert.jpg
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - gansu_dessert.jpg
+    thumbnail: gansu_dessert_thumbnail.png
+-
+  title: Beijing
+  directory: beijing
+  preview:
+    filename: 1
+    original: beijing_CBD.jpg
+    sizes:
+    - beijing_CBD.jpg
+    thumbnail: beijing_CBD_thumbnail.png

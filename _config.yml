@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: ZIFU
+subtitle: 日拱一卒
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  My blog.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,45 +16,47 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_logo: icon_zzf.jpg
+author: Zifu Zhang
+author_bio: Hi, my name is Zifu Zhang.
+author_email: "zifuzhang@buaa.edu.cn"
+author_location: 北京
+author_website_url: "https://bblgbr.github.io"
+typewrite-text: 得日拱一卒啊！
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: Beihang
               company_logo: google.png
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: False
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: False
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: beihang.jpg
+                college_name: School of Electronics and Information Engineering
+                college_url: https://www.buaa.edu.cn/
+                college_degree: Beihang University
+                description: Bachelor of Engineering 2019.09-2023.06
+                visibility: true
+              - college_logo: beihang.jpg
+                college_name: School of Electronics and Information Engineering
+                college_url: https://www.buaa.edu.cn/
+                college_degree: Beihang University
+                description: Master of Engineering 2023.09-present
                 visibility: true
 
 # Projects
@@ -63,24 +65,26 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+                visibility: false
+
+author_project_details:
+              - project_thumbnail: patent_classification.png
+                project_title: Spectral classification method based on PCA-UVE-ELM
+                project_description: A patent used for spectral classification techniques
+                project_url: https://patents.google.com/patent/CN113408616B
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+# twitter_username: johndoe
+github_username:  bblgbr
+# facebook_username: johndoe
+# linkedin_username: johndoe
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -95,7 +99,7 @@ mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50b
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: zifuzhang@buaa.edu.cn
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr

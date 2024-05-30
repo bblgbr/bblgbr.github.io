@@ -1,0 +1,11 @@
+---
+name: Zifu Zhang
+username: zifu
+bio: "I am a master of EE in beihang University, interested in deep learning, image compression and AIGC"
+site: https://bblgbr.github.io
+avatar: icon_zzf.jpg
+email: zifuzhang@buaa.edu.cn
+social:
+    - title: "github"
+      url: "https://github.com/bblgbr"
+---

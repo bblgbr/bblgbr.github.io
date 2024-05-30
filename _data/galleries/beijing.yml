@@ -1,0 +1,18 @@
+picture_path: beijing
+preview:
+  filename: 1
+  original: beijing_CBD.jpg
+  sizes:
+  - beijing_CBD.jpg
+  thumbnail: beijing_CBD_thumbnail.png
+pictures:
+- filename: 1
+  original: beijing_CBD.jpg
+  sizes:
+  - beijing_CBD.jpg
+  thumbnail: beijing_CBD_thumbnail.png
+- filename: 2
+  original: beijing_baita.jpg
+  sizes:
+  - beijing_baita.jpg
+  thumbnail: beijing_baita_thumbnail.png

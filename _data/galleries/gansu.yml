@@ -1,0 +1,23 @@
+picture_path: gansu
+preview:
+  filename: 1
+  original: gansu_dessert.jpg
+  sizes:
+  - gansu_dessert.jpg
+  thumbnail: gansu_dessert_thumbnail.png
+pictures:
+- filename: 1
+  original: gansu_dessert.jpg
+  sizes:
+  - gansu_dessert.jpg
+  thumbnail: gansu_dessert_thumbnail.png
+- filename: 2
+  original: gansu_qicaidanxia.jpg
+  sizes:
+  - gansu_qicaidanxia.jpg
+  thumbnail: gansu_qicaidanxia_thumbnail.png
+- filename: 3
+  original: gansu_yangguan.jpg
+  sizes:
+  - gansu_yangguan.jpg
+  thumbnail: gansu_yangguan_thumbnail.png
