@@ -67,12 +67,21 @@ author_project_details:
                 project_url: https://gamershub.in
                 visibility: false
 
+
+author_project_details:
+              - project_thumbnail: icip2024.png
+                project_title: Hybrid single input and multiple output method for compressing features towards machine vision tasks
+                project_description: As the first author, this work was accepted at ICIP2024. Meanwhile, two proposals were recorded in the CE1 of the 145th and 146th MPEG meetings.
+                project_url: https://github.com/bblgbr/VCM-SIMO
+                visibility: true
+
 author_project_details:
               - project_thumbnail: patent_classification.png
                 project_title: Spectral classification method based on PCA-UVE-ELM
                 project_description: A patent used for spectral classification techniques
                 project_url: https://patents.google.com/patent/CN113408616B
                 visibility: true
+
 
 # social links
 # twitter_username: johndoe
