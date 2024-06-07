@@ -74,8 +74,6 @@ author_project_details:
                 project_description: As the first author, this work was accepted at ICIP2024. Meanwhile, two proposals were recorded in the CE1 of the 145th and 146th MPEG meetings.
                 project_url: https://github.com/bblgbr/VCM-SIMO
                 visibility: true
-
-author_project_details:
               - project_thumbnail: patent_classification.png
                 project_title: Spectral classification method based on PCA-UVE-ELM
                 project_description: A patent used for spectral classification techniques
