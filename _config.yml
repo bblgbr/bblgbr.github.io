@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-title                    : "Huaqiu Li - Homepage"
+title                    : "Zifu Zhang - Homepage"
 title_separator          : "-"
-name                     : &name "Huaqiu Li"
+name                     : &name "Zifu Zhang"
 description              : &description "Orienteering CV"
 url                      : https://bblgbr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,17 +22,17 @@ google_scholar_stats_use_cdn : true
 author:
   # Biographic information
   avatar           : "cv1.png"
-  name             : "Huaqiu Li(李华秋)"
+  name             : "Zifu Zhang(张子夫)"
   pronouns         : # example: "she/her"  
-  bio              : "Tech geeks save the world!"
-  location         : "Shenzhen, China"
-  employer         : "Tsinghua University"
+  bio              : # "xxx"
+  location         : "Beijing, China"
+  employer         : "The Hong Kong University of Science and Technology (HKUST)"
   uri              : # URL
-  email            : "lihuaqiu2025@gmail.com" 
+  email            : "zifuzhang531@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=zp8a-P8AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=vUbf2i8AAAAJ&hl=zh-CN&oi=ao"
   impactstory      : # URL
   #orcid            : "https://orcid.org/0009-0008-3300-3853"
   semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "github.com/huaqlil"
+  github           : "bblgbr"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
