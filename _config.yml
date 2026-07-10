@@ -11,9 +11,9 @@ title                    : "Zifu Zhang - Homepage"
 title_separator          : "-"
 name                     : &name "Zifu Zhang"
 description              : &description "Orienteering CV"
-url                      : https://zifuzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/zifuzhang" # the subpath of your site, e.g. "/blog"
-repository               : "zifuzhang/zifuzhang"
+url                      : https://bblgbr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/bblgbr.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "bblgbr/bblgbr.github.io" # the GitHub repository of your site, e.g. "mmistakes/mmistakes.github.io"
 google_scholar_stats_use_cdn : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
