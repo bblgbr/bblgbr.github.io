@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-title                    : "Zifu Zhang - Homepage"
+title                    : "Huaqiu Li - Homepage"
 title_separator          : "-"
-name                     : &name "Zifu Zhang"
+name                     : &name "Huaqiu Li"
 description              : &description "Orienteering CV"
-url                      : https://bblgbr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/bblgbr.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "bblgbr/bblgbr.github.io" # the GitHub repository of your site, e.g. "mmistakes/mmistakes.github.io"
+url                      : https://huaqlili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/huaqiu" # the subpath of your site, e.g. "/blog"
+repository               : "huaqlili/huaqiu"
 google_scholar_stats_use_cdn : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,17 +22,17 @@ google_scholar_stats_use_cdn : true
 author:
   # Biographic information
   avatar           : "cv1.png"
-  name             : "Zifu Zhang(张子夫)"
+  name             : "Huaqiu Li(李华秋)"
   pronouns         : # example: "she/her"  
-  bio              : # "xxx"
-  location         : "Beijing, China"
-  employer         : "The Hong Kong University of Science and Technology (HKUST)"
+  bio              : "Tech geeks save the world!"
+  location         : "Shenzhen, China"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "zifuzhang531@gmail.com" 
+  email            : "lihuaqiu2025@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vUbf2i8AAAAJ&hl=zh-CN&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=zp8a-P8AAAAJ&hl=zh-CN"
   impactstory      : # URL
   #orcid            : "https://orcid.org/0009-0008-3300-3853"
   semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "bblgbr"
+  github           : "github.com/huaqlil"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
