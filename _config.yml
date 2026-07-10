@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Huaqiu Li"
 description              : &description "Orienteering CV"
 url                      : https://bblgbr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/bblgbr.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bblgbr/bblgbr.github.io"
 google_scholar_stats_use_cdn : true
 
