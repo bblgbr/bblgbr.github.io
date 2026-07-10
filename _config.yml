@@ -13,7 +13,7 @@ name                     : &name "Huaqiu Li"
 description              : &description "Orienteering CV"
 url                      : https://huaqlili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/bblgbr.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "huaqlili/huaqiu"
+repository               : "bblgbr/bblgbr.github.io"
 google_scholar_stats_use_cdn : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
