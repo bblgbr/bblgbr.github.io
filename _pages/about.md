@@ -30,7 +30,7 @@ I am a first-year Ph.D. student at the Hong Kong University of Science and Techn
 
 # 💻 Experience
 
-- **09/2026 ~ Present** Phd at the Hong Kong University of Science and Technology (HKUST) under the joint supervision of [Prof. Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and [Prof. Pan Wang](https://www.tudelft.nl/en/ide/about-ide/people/wang-p).
+- **09/2026 ~ Present**, Phd at the Hong Kong University of Science and Technology (HKUST) under the joint supervision of [Prof. Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and [Prof. Pan Wang](https://www.tudelft.nl/en/ide/about-ide/people/wang-p).
 - **12/2025 ~ 08/2026**, Research Intern at Multimedia Lab, Taobao, Alibaba Group, supervised by [Dr. Ying Chen](https://scholar.google.com/citations?user=NpTmcKEAAAAJ&hl=en).
 - **05/2025 ~ 12/2025**, Research Assistant at Tsinghua University, supervised by [Dr. Tongda Xu](https://scholar.google.com/citations?user=LO8GS7sAAAAJ&hl=en) and [Prof. Yan Wang](https://yanwang202199.github.io/).
 - **09/2023 ~ 01/2026**, Earned Master's degree in School of Electronics and Information Engineering at Beihang University, supervised by [Prof. Shengxi Li](https://scholar.google.com/citations?user=GNxRL-gAAAAJ&hl=zh-CN) and [Prof. Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ&hl=en).
