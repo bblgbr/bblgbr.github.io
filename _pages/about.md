@@ -18,15 +18,11 @@ redirect_from:
 
 # 👨 About Me
 
-I received my M.Eng. degree (2026) and B.Eng. degree (2023) from MC2 Lab at [Beihang University](https://www.buaa.edu.cn/), supervised by [Prof. Shengxi Li](https://scholar.google.com/citations?user=GNxRL-gAAAAJ&hl=zh-CN) and [Prof. Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ&hl=en). I am planning to commence my PhD studies at the Hong Kong University of Science and Technology (HKUST) in Fall 2026, under the joint supervision of Prof. [Pan Wang](https://www.tudelft.nl/en/ide/about-ide/people/wang-p) and Prof. [Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo). I am broadly interested in applied computer vision, generative AI and world models.
-
-
-My research interests lie in computer vision and generative AI, with a particular focus on:
-* **World Model**
+I am a first-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST) under the joint supervision of Prof. [Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and Prof. [Pan Wang](https://www.tudelft.nl/en/ide/about-ide/people/wang-p). I received my M.Eng. degree (2026) and B.Eng. degree (2023) from MC2 Lab at [Beihang University](https://www.buaa.edu.cn/), supervised by [Prof. Shengxi Li](https://scholar.google.com/citations?user=GNxRL-gAAAAJ&hl=zh-CN) and [Prof. Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ&hl=en). My research interests lie in computer vision and generative AI, with a particular focus on:
+* **Embodied Intelligence**
+* **Brain-Computer Interface**
 * **Generative Image/Video Compression**
 * **Image/Video Coding for Machines**
-
-
 
 [Email](mailto:zifuzhang531@gmail.com) / [GitHub](https://github.com/bblgbr) / [CV]({{ site.baseurl }}/assets/ZZF_CV.pdf)
 
@@ -34,7 +30,8 @@ My research interests lie in computer vision and generative AI, with a particula
 
 # 💻 Experience
 
-- **12/2025 ~ Present**, Research Intern at Multimedia Lab, Taobao, Alibaba Group, supervised by [Dr. Ying Chen](https://scholar.google.com/citations?user=NpTmcKEAAAAJ&hl=en).
+- **09/2026 ~ Present** Phd at the Hong Kong University of Science and Technology (HKUST) under the joint supervision of Prof. [Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and Prof. [Pan Wang](https://www.tudelft.nl/en/ide/about-ide/people/wang-p).
+- **12/2025 ~ 08/2026**, Research Intern at Multimedia Lab, Taobao, Alibaba Group, supervised by [Dr. Ying Chen](https://scholar.google.com/citations?user=NpTmcKEAAAAJ&hl=en).
 - **05/2025 ~ 12/2025**, Research Assistant at Tsinghua University, supervised by [Dr. Tongda Xu](https://scholar.google.com/citations?user=LO8GS7sAAAAJ&hl=en) and [Prof. Yan Wang](https://yanwang202199.github.io/).
 - **09/2023 ~ 01/2026**, Earned Master's degree in School of Electronics and Information Engineering at Beihang University, supervised by [Prof. Shengxi Li](https://scholar.google.com/citations?user=GNxRL-gAAAAJ&hl=zh-CN) and [Prof. Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ&hl=en).
 - **09/2019 ~ 06/2023**, Earned Bachelor's degree in School of Electronic Information Engineering at Beihang University.
